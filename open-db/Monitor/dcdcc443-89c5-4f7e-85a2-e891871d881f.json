@@ -1,0 +1,50 @@
+{
+  "adaptive_sync": "FreeSync",
+  "aspect_ratio": "16:9",
+  "color": [
+    "BLACK"
+  ],
+  "connectors": "1 x HDMI 2.0, 1 x DisplayPort 1.4",
+  "general_product_information": {},
+  "hdr": "HDR10",
+  "identifiers": {
+    "identifiers": [
+      {
+        "region": "all",
+        "type": "mpn",
+        "value": "27G15"
+      },
+      {
+        "region": "all",
+        "type": "upc",
+        "value": "685417733989"
+      }
+    ],
+    "retailer_listings": [],
+    "version": 1
+  },
+  "lighting": [],
+  "max_brightness": 300,
+  "metadata": {
+    "manufacturer": "AOC",
+    "manufacturer_color": null,
+    "name": "AOC 27G15 27\" 1080p 180Hz VA Gaming Monitor",
+    "part_numbers": [
+      "27G15"
+    ],
+    "releaseYear": null,
+    "series": "",
+    "variant": "Black"
+  },
+  "mprt_response_time": 1,
+  "opendb_id": "dcdcc443-89c5-4f7e-85a2-e891871d881f",
+  "panel_type": "VA",
+  "refresh_rate": 180,
+  "resolution": {
+    "horizontalRes": 1920,
+    "verticalRes": 1080
+  },
+  "response_time": 1,
+  "screen_size": 27,
+  "viewing_angle": "178\u00b0 H x 178\u00b0 V"
+}
