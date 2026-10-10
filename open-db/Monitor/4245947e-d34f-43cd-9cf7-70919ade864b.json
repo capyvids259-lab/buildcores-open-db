@@ -1,0 +1,45 @@
+{
+  "adaptive_sync": "FreeSync",
+  "aspect_ratio": "16:9",
+  "color": [
+    "BLACK"
+  ],
+  "connectors": "2 x HDMI 2.0, 2 x DisplayPort 1.4",
+  "general_product_information": {},
+  "hdr": "HDR10",
+  "identifiers": {
+    "identifiers": [
+      {
+        "region": "all",
+        "type": "mpn",
+        "value": "UG27QS"
+      }
+    ],
+    "retailer_listings": [],
+    "version": 1
+  },
+  "lighting": [],
+  "max_brightness": 400,
+  "metadata": {
+    "manufacturer": "Z-EDGE",
+    "manufacturer_color": null,
+    "name": "Z-EDGE UG27QS 27\" 1440p 240Hz IPS Gaming Monitor",
+    "part_numbers": [
+      "UG27QS"
+    ],
+    "releaseYear": null,
+    "series": "",
+    "variant": "Black"
+  },
+  "mprt_response_time": 1,
+  "opendb_id": "4245947e-d34f-43cd-9cf7-70919ade864b",
+  "panel_type": "IPS",
+  "refresh_rate": 240,
+  "resolution": {
+    "horizontalRes": 2560,
+    "verticalRes": 1440
+  },
+  "response_time": null,
+  "screen_size": 27,
+  "viewing_angle": "178\u00b0 H x 178\u00b0 V"
+}
