@@ -1,0 +1,50 @@
+{
+  "adaptive_sync": "FreeSync",
+  "aspect_ratio": "16:9",
+  "color": [
+    "BLACK"
+  ],
+  "connectors": "2 x HDMI, 2 x DisplayPort",
+  "general_product_information": {},
+  "hdr": "",
+  "identifiers": {
+    "identifiers": [
+      {
+        "region": "all",
+        "type": "mpn",
+        "value": "E275B-QPT168W"
+      },
+      {
+        "region": "all",
+        "type": "upc",
+        "value": "792343327257"
+      }
+    ],
+    "retailer_listings": [],
+    "version": 1
+  },
+  "lighting": [],
+  "max_brightness": 320,
+  "metadata": {
+    "manufacturer": "Sceptre",
+    "manufacturer_color": null,
+    "name": "Sceptre E275B-QPT168W 27\" 1440p 165Hz IPS Gaming Monitor",
+    "part_numbers": [
+      "E275B-QPT168W"
+    ],
+    "releaseYear": null,
+    "series": "",
+    "variant": "Black"
+  },
+  "mprt_response_time": null,
+  "opendb_id": "fd78b747-f8f6-4ff7-b5cd-bcece6ae6142",
+  "panel_type": "IPS",
+  "refresh_rate": 165,
+  "resolution": {
+    "horizontalRes": 2560,
+    "verticalRes": 1440
+  },
+  "response_time": 4,
+  "screen_size": 27,
+  "viewing_angle": "178\u00b0 H x 178\u00b0 V"
+}
