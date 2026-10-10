@@ -1,0 +1,45 @@
+{
+  "adaptive_sync": "FreeSync",
+  "aspect_ratio": "16:9",
+  "color": [
+    "BLACK"
+  ],
+  "connectors": "HDMI, DisplayPort",
+  "general_product_information": {},
+  "hdr": "HDR10",
+  "identifiers": {
+    "identifiers": [
+      {
+        "region": "all",
+        "type": "mpn",
+        "value": "27E6QA"
+      }
+    ],
+    "retailer_listings": [],
+    "version": 1
+  },
+  "lighting": [],
+  "max_brightness": null,
+  "metadata": {
+    "manufacturer": "KOORUI",
+    "manufacturer_color": null,
+    "name": "KOORUI 27E6QA 27\" 1440p 165Hz IPS Gaming Monitor",
+    "part_numbers": [
+      "27E6QA"
+    ],
+    "releaseYear": null,
+    "series": "",
+    "variant": "Black"
+  },
+  "mprt_response_time": null,
+  "opendb_id": "a0ec2462-f06e-426a-afcf-04a82f22f39e",
+  "panel_type": "IPS",
+  "refresh_rate": 165,
+  "resolution": {
+    "horizontalRes": 2560,
+    "verticalRes": 1440
+  },
+  "response_time": 1,
+  "screen_size": 27,
+  "viewing_angle": "178\u00b0 H x 178\u00b0 V"
+}
