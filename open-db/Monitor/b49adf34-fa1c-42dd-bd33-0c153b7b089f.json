@@ -1,0 +1,45 @@
+{
+  "adaptive_sync": "FreeSync Premium",
+  "aspect_ratio": "16:9",
+  "color": [
+    "BLACK"
+  ],
+  "connectors": "2 x HDMI 2.0, 1 x DisplayPort 1.4",
+  "general_product_information": {},
+  "hdr": "HDR Ready",
+  "identifiers": {
+    "identifiers": [
+      {
+        "region": "all",
+        "type": "mpn",
+        "value": "GS27Q"
+      }
+    ],
+    "retailer_listings": [],
+    "version": 1
+  },
+  "lighting": [],
+  "max_brightness": 300,
+  "metadata": {
+    "manufacturer": "Gigabyte",
+    "manufacturer_color": null,
+    "name": "Gigabyte GS27Q 27\" 1440p 165Hz IPS Gaming Monitor",
+    "part_numbers": [
+      "GS27Q"
+    ],
+    "releaseYear": null,
+    "series": "",
+    "variant": "Black"
+  },
+  "mprt_response_time": 1,
+  "opendb_id": "b49adf34-fa1c-42dd-bd33-0c153b7b089f",
+  "panel_type": "IPS",
+  "refresh_rate": 165,
+  "resolution": {
+    "horizontalRes": 2560,
+    "verticalRes": 1440
+  },
+  "response_time": null,
+  "screen_size": 27,
+  "viewing_angle": "178\u00b0 H x 178\u00b0 V"
+}
